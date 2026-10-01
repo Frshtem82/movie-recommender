@@ -46,7 +46,7 @@ movie-recommender/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/frshtem1/movie-recommender.git
+git clone https://github.com/frshtem82/movie-recommender.git
 cd movie-recommender
 ```
 
